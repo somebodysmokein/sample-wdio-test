@@ -13,8 +13,8 @@ export const config = {
   // should work too though). These services define specific user and key (or access key)
   // values you need to put in here in order to connect to these services.
   //
-  user: "venkateshr_0PiUN7",
-  key: "g64LdjAQ4kvyF7HspQPH",
+  user: "YOUR_USERNAME",
+  key: "ACCESS_KEY",
   //
   // If you run your tests on Sauce Labs you can specify the region you want to run your tests
   // in via the `region` property. Available short handles for regions are `us` (default) and `eu`.
